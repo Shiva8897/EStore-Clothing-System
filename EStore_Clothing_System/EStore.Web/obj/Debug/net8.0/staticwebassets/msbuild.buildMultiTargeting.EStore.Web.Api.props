@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EStore.Web.Api.props" />
+</Project>
